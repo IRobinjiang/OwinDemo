@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinDemo", "OwinDemo\OwinDemo.csproj", "{60E62A5C-0A16-49A1-B14D-823871592468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinDemo.Tests", "OwinDemo.Tests\OwinDemo.Tests.csproj", "{8376F28D-DDC0-4ACA-9947-5CC25D5400ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E62A5C-0A16-49A1-B14D-823871592468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E62A5C-0A16-49A1-B14D-823871592468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E62A5C-0A16-49A1-B14D-823871592468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E62A5C-0A16-49A1-B14D-823871592468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8376F28D-DDC0-4ACA-9947-5CC25D5400ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8376F28D-DDC0-4ACA-9947-5CC25D5400ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8376F28D-DDC0-4ACA-9947-5CC25D5400ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8376F28D-DDC0-4ACA-9947-5CC25D5400ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
